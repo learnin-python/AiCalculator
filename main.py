@@ -16,6 +16,9 @@ Use the following keywords for their associated operations:
 
 
 """
+# naming the Chatbot calculator
+# using mathematical evaluation logic
+# the calculator AI will not learn with user input
 
 
 Bot = ChatBot(name='Calculator',
