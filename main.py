@@ -16,7 +16,7 @@ Use the following keywords for their associated operations:
 
 
 """
-# naming the Chatbot calculator
+# naming the ChatBot calculator
 # using mathematical evaluation logic
 # the calculator AI will not learn with user input
 
